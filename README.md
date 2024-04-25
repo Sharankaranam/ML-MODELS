@@ -2,7 +2,7 @@
 
 > Machine Learning algorithm implementations from scratch.
 
-You can find Tutorials with the math and code explanations on my channel: [Here](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+
 
 ## Algorithms Implemented
 
@@ -53,6 +53,3 @@ with `<algorithm-file>` being the valid filename of the algorithm without the ex
 For example, If I want to run the Linear regression example, I would do 
 `python -m mlfromscratch.linear_regression`
 
-## Watch the Playlist
-
-[![Alt text](https://img.youtube.com/vi/ngLyX54e1LU/hqdefault.jpg)](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
